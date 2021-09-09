@@ -1,4 +1,4 @@
-# Projeto Integrador
+# Projeto 
 
 ## Ideia do projeto
 Uma plataforma para pessoas se promoverem, ou promoverem suas ideias a fim de integrar os cursos da Unifametro.  
